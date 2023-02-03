@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Java",
+			"path": "../../../../../../../Java"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
